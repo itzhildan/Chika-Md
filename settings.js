@@ -27,7 +27,7 @@ global.premium = ['6281545945344'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6281545945344' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Danz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Hildan' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'DanzBot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Danz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
@@ -37,12 +37,12 @@ global.youtube = 'https://youtube.com/channel/UCrahlqT2M7qthVKgYx5FdBA'
 global.ig = 'https://instagram.com/hlfa_hildan'
 global.mygc = 'https://chat.whatsapp.com/EUW4J5hMNFo1mETsoP8CzN'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'komengyamaha11@gmail.com'
+global.email = '(private)@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© DanzBot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Danz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'Hildan' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
